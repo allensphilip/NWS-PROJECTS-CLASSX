@@ -23,14 +23,14 @@
 6. [IMAGE DETECTION SYSTEM]()
    - **Description:** Detect objects from image by using Machine Learning(ML).
 
-7. [AI POWERED CHATING APPLICATION](https://www.youtube.com/watch?v=4v320fWe-wo)
+7. [AI POWERED CHATING APPLICATION]()
    - **Description:** Watch a tutorial on building a smart compartment bin. This project helps in waste management by sorting items automatically.
-   - **Source:** [Link](https://www.youtube.com/watch?v=4v320fWe-wo)
+   - **Source:** [Link]()
 
-8. [SMART COMPARTMENT BIN](https://www.youtube.com/watch?v=4v320fWe-wo)
+8. [CAR PARKING SENSOR]([https://www.youtube.com/watch?v=4v320fWe-wo](https://projecthub.arduino.cc/rliao24/low-cost-car-parking-sensor-8f96dd))
    - **Description:** Watch a tutorial on building a smart compartment bin. This project helps in waste management by sorting items automatically.
-   - **Source:** [Link](https://www.youtube.com/watch?v=4v320fWe-wo)
+   - **Source:** [Link]([https://www.youtube.com/watch?v=4v320fWe-wo](https://projecthub.arduino.cc/rliao24/low-cost-car-parking-sensor-8f96dd))
 
-9. [SMART COMPARTMENT BIN](https://www.youtube.com/watch?v=4v320fWe-wo)
+9. [AUTOMATIC SHOOL BELL SYSTEM](https://techatronic.com/automatic-school-bell-arduino-project/)
    - **Description:** Watch a tutorial on building a smart compartment bin. This project helps in waste management by sorting items automatically.
-   - **Source:** [Link](https://www.youtube.com/watch?v=4v320fWe-wo)
+   - **Source:** [Link]([https://www.youtube.com/watch?v=4v320fWe-wo](https://techatronic.com/automatic-school-bell-arduino-project/))
