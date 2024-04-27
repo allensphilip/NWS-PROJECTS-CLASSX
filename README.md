@@ -6,8 +6,8 @@ Please check the students list for project aasignments
 If you have any problems facing with the projects please contact me<br>
 **CONTACT ME HERE**:<br>
 **Whatsapp Number**: 9745363171<br>
-**Email:** allensphilip@gmail.com
-**Student List**: [githlink](https://github.com/allensphilip/NWS-PROJECTS-CLASSX/blob/main/STUDENT%20PROJECT%20LIST.xlsx)
+**Email:** allensphilip@gmail.com<br>
+**Student List**: [githlink](https://github.com/allensphilip/NWS-PROJECTS-CLASSX/blob/main/STUDENT%20PROJECT%20LIST.xlsx)<br>
 **Student List**: [Sheet Link](https://docs.google.com/spreadsheets/d/19Tc7TyEvvEnq7jpSUa8TSgajfxRGaNMN4YIy5i_YVSQ/edit?usp=sharing)
 ______________________________________________________________________________________________________________________________________________________________________________________
 
