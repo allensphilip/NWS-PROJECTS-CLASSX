@@ -42,6 +42,6 @@ ________________________________________________________________________________
    - **Description:** Watch a tutorial on building a smart compartment bin. This project helps in waste management by sorting items automatically.
    - **Source:** [Link](https://projecthub.arduino.cc/rliao24/low-cost-car-parking-sensor-8f96dd)
 
-9. [AUTOMATIC SHOOL BELL SYSTEM](https://techatronic.com/automatic-school-bell-arduino-project/)
+9. [AUTOMATIC SCHOOL BELL SYSTEM](https://techatronic.com/automatic-school-bell-arduino-project/)
    - **Description:** Watch a tutorial on building a smart compartment bin. This project helps in waste management by sorting items automatically.
    - **Source:** [Link](https://www.youtube.com/watch?v=4v320fWe-wo](https://techatronic.com/automatic-school-bell-arduino-project/)
