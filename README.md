@@ -7,6 +7,8 @@ If you have any problems facing with the projects please contact me<br>
 **CONTACT ME HERE**:<br>
 **Whatsapp Number**: 9745363171<br>
 **Email:** allensphilip@gmail.com
+**Student List**: [githlink](https://github.com/allensphilip/NWS-PROJECTS-CLASSX/blob/main/STUDENT%20PROJECT%20LIST.xlsx)
+**Student List**: [Sheet Link](https://docs.google.com/spreadsheets/d/19Tc7TyEvvEnq7jpSUa8TSgajfxRGaNMN4YIy5i_YVSQ/edit?usp=sharing)
 ______________________________________________________________________________________________________________________________________________________________________________________
 
 1. [SMART WEATHER MONITORING SYSTEM](https://iotprojectsideas.com/iot-weather-station-using-dht11-sensor/)
