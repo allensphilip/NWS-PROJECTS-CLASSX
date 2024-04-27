@@ -3,8 +3,8 @@
 # 🚨 Important Notice🚨
 
 Please Check the students list for understanding which project is assigned to you
-If you have any problems facing with the projects please contact me
-Whatsapp Number: 9745363171
+If you have any problems facing with the projects please contact me<br>
+Whatsapp Number: 9745363171<br>
 Email: allensphilip@gmail.com
 ______________________________________________________________________________________________________________________________________________________________________________________
 
