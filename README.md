@@ -19,3 +19,18 @@
 5. [SMART COMPARTMENT BIN](https://www.youtube.com/watch?v=4v320fWe-wo)
    - **Description:** Watch a tutorial on building a smart compartment bin. This project helps in waste management by sorting items automatically.
    - **Source:** [Link](https://www.youtube.com/watch?v=4v320fWe-wo)
+   - 
+6. [IMAGE DETECTION SYSTEM]()
+   - **Description:** Detect objects from image by using Machine Learning(ML).
+
+7. [AI POWERED CHATING APPLICATION](https://www.youtube.com/watch?v=4v320fWe-wo)
+   - **Description:** Watch a tutorial on building a smart compartment bin. This project helps in waste management by sorting items automatically.
+   - **Source:** [Link](https://www.youtube.com/watch?v=4v320fWe-wo)
+
+8. [SMART COMPARTMENT BIN](https://www.youtube.com/watch?v=4v320fWe-wo)
+   - **Description:** Watch a tutorial on building a smart compartment bin. This project helps in waste management by sorting items automatically.
+   - **Source:** [Link](https://www.youtube.com/watch?v=4v320fWe-wo)
+
+9. [SMART COMPARTMENT BIN](https://www.youtube.com/watch?v=4v320fWe-wo)
+   - **Description:** Watch a tutorial on building a smart compartment bin. This project helps in waste management by sorting items automatically.
+   - **Source:** [Link](https://www.youtube.com/watch?v=4v320fWe-wo)
