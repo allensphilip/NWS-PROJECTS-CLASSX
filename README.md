@@ -2,7 +2,7 @@
 
 # 🚨 Important Notice🚨
 
-Please Check the students list for understanding which project is assigned to you
+Please check the students list for project aasignments
 If you have any problems facing with the projects please contact me<br>
 **CONTACT ME HERE**:<br>
 **Whatsapp Number**: 9745363171<br>
