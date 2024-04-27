@@ -6,6 +6,7 @@ Please Check the students list for understanding which project is assigned to yo
 If you have any problems facing with the projects please contact me
 Whatsapp Number: 9745363171
 Email: allensphilip@gmail.com
+______________________________________________________________________________________________________________________________________________________________________________________
 
 1. [SMART WEATHER MONITORING SYSTEM](https://iotprojectsideas.com/iot-weather-station-using-dht11-sensor/)
    - **Description:** Build a smart weather monitoring system using the DHT11 sensor. This project will allow students to track temperature and humidity levels in real-time.
