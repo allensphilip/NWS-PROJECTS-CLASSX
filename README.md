@@ -45,3 +45,7 @@ ________________________________________________________________________________
 9. [AUTOMATIC SCHOOL BELL SYSTEM](https://techatronic.com/automatic-school-bell-arduino-project/)
    - **Description:** Watch a tutorial on building a smart compartment bin. This project helps in waste management by sorting items automatically.
    - **Source:** [Link](https://www.youtube.com/watch?v=4v320fWe-wo](https://techatronic.com/automatic-school-bell-arduino-project/)
+   - 
+10. [CLAPP SWITCH](https://www.youtube.com/watch?v=G8uTmRrY1M8/)
+   - **Description:** Watch a tutorial on building a smart compartment bin. This project helps in waste management by sorting items automatically.
+   - **Source:** [Link](https://www.youtube.com/watch?v=4v320fWe-wo](https://techatronic.com/automatic-school-bell-arduino-project/)
