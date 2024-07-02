@@ -49,3 +49,7 @@ ________________________________________________________________________________
 10. [CLAPP SWITCH](https://www.youtube.com/watch?v=G8uTmRrY1M8/)
    - **Description:** Watch a tutorial on building a smart compartment bin. This project helps in waste management by sorting items automatically.
    - **Source:** [Link](https://www.youtube.com/watch?v=G8uTmRrY1M8)
+
+11. [HOSTAL MANAGEMENT](https://itsourcecode.com/free-projects/python-projects/hostel-management-system-project-in-python-with-source-code/)
+   - **Description:** Watch a tutorial on building a smart compartment bin. This project helps in waste management by sorting items automatically.
+   - **Source:** [Link]([https://www.youtube.com/watch?v=G8uTmRrY1M8](https://itsourcecode.com/free-projects/python-projects/hostel-management-system-project-in-python-with-source-code/)
