@@ -9,7 +9,7 @@ If you are facing any problems with the projects please contact me<br>
 **Email:** allensphilip@gmail.com<br>
 
 **Student List**: [Sheet Link](https://docs.google.com/spreadsheets/d/19Tc7TyEvvEnq7jpSUa8TSgajfxRGaNMN4YIy5i_YVSQ/edit?usp=sharing)<br>
-**Project Progress Update**: [Form Link](https://docs.google.com/spreadsheets/d/19Tc7TyEvvEnq7jpSUa8TSgajfxRGaNMN4YIy5i_YVSQ/edit?usp=sharing)
+**Project Progress Update**: [Form Link](https://forms.gle/KuJawEuCYAEqEvg98)
 ______________________________________________________________________________________________________________________________________________________________________________________
 
 1. [SMART WEATHER MONITORING SYSTEM](https://iotprojectsideas.com/iot-weather-station-using-dht11-sensor/)
