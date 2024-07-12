@@ -10,7 +10,7 @@ If you are facing any problems with the projects please contact me<br>
 
 **Student List**: [Sheet Link](https://docs.google.com/spreadsheets/d/19Tc7TyEvvEnq7jpSUa8TSgajfxRGaNMN4YIy5i_YVSQ/edit?usp=sharing)<br>
 **Project Progress Update**: [Form Link](https://forms.gle/KuJawEuCYAEqEvg98)
-**Chart Content Template**: [content pdf link]([https://forms.gle/KuJawEuCYAEqEvg98](https://github.com/allensphilip/NWS-PROJECTS-CLASSX/blob/main/README.md))
+**Chart Content Template**: [content pdf link](https://github.com/allensphilip/NWS-PROJECTS-CLASSX/blob/main/README.md))
 ______________________________________________________________________________________________________________________________________________________________________________________
 
 1. [SMART WEATHER MONITORING SYSTEM](https://iotprojectsideas.com/iot-weather-station-using-dht11-sensor/)
